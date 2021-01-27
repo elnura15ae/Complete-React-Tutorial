@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title":"My First Blog",
+            "body": "It was our 5th birthday last week and we are happy to announce some new features. Development has been slow. In retrospect this is a good thing for something that purports to be a standard. We didn’t make any radical changes which kept the ecosystem stable. The community still exists due to many members contributing above and beyond. We extend thanks to people have written themes, parsers, converters, tools and services. The website will soon showcase the plethora of projects built around JSON Resume.",
+            "author":"mario",
+            "id":1
+        },
+        {
+            "title":"Opening Party!",
+            "body": "It was our 5th birthday last week and we are happy to announce some new features. Development has been slow. In retrospect this is a good thing for something that purports to be a standard. We didn’t make any radical changes which kept the ecosystem stable. The community still exists due to many members contributing above and beyond. We extend thanks to people have written themes, parsers, converters, tools and services. The website will soon showcase the plethora of projects built around JSON Resume.",
+            "author":"Yoshi",
+            "id":2
+        }
+    ]
+}
